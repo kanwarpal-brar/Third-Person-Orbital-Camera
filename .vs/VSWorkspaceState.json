@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\Script",
+    "\\Assets\\Script\\Camera",
+    "\\Assets\\Script\\Movement",
+    "\\Assets\\Script\\Movement\\Player"
+  ],
+  "SelectedNode": "\\Assets\\Script\\Movement\\Player\\PlayerMovement.cs",
+  "PreviewInSolutionExplorer": false
+}
